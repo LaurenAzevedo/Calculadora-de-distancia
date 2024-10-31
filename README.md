@@ -76,6 +76,9 @@ Na tela principal, o usuário insere a quantida
 
 <img src="https://github.com/user-attachments/assets/b376f240-636d-43b0-b6d8-8ac4596ba739" width="260" height="500"/>
 
+# 🧰 APK do APP 
+
+<a href="https://github.com/LaurenAzevedo/Calculadora-de-distancia/blob/main/distanciapassos.apk"> Download APK </a>
  
 # 📄 Licença
 
