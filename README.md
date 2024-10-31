@@ -42,7 +42,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 ├── app
 │   ├── src
 │   │   ├── main
-│   │   │   ├── java/com/example/imccalculator
+│   │   │   ├── java/br/ulbra/Calculadora de distancia
 │   │   │  
 │   ├── MainActivity.java          # Atividade principal
 │   │   │   ├──res
